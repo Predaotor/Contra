@@ -60,7 +60,7 @@ Bird | (Powerdown). Causes the player to drop down if taken when on a platform
 * Hence jumping directly on top of the powerup will not activate as you are not on a platform. This can be
 used to prevent unwanted drops to death
 * Trying to drop when on water will cause you to drown and die !!
-* Direction of shooting is determined by the mouse position. Mouse above/below the player shoots a bullet at an angle of +/- 45 degrees 
+* Direction of shooting is determined by the mouse position. Mouse above/below the player shoots a bullet at an angle of +/- 45 degrees
 from the ground.
 * RMB activates Dash when it is out of cooldown. Its cooldown is depicted in top center of the screen Use this ability to cross broken bridges for example.
 * A random powerup drops in front of the player every 2 seconds. If it goes out of screen behind the player, it disappears
@@ -77,4 +77,4 @@ BGM | Jake Kaufman on [ocremix](https://ocremix.org/)
 Sprite sounds | Effects from [bfxr](https://www.bfxr.net/)
 Sprites | Google images
 
-# Thank you for playing
+# Thank you for playing.
